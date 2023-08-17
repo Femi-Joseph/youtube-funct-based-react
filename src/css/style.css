@@ -1,0 +1,22 @@
+.search-bar {
+  margin: 50px 175px;
+}
+.search-box {
+  width: 600px;
+  border-radius: 10px;
+}
+.video-list {
+  position: absolute;
+  left: 900px;
+  top: 50px;
+}
+.iframe-style {
+  margin-left: 170px;
+  width: 600px;
+  height: 400px;
+}
+.imgstyle {
+  width: 250;
+  height: 100;
+  border: 1px solid black;
+}
